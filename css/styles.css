@@ -421,7 +421,6 @@ p {
 
 .port-item {
     position: relative;
-    height: 420px;
     width: calc((100% - 48px) /3);
     cursor: pointer;
     overflow: hidden;
